@@ -97,3 +97,28 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+# PackageCache는 추적 금지 (Packages/manifest.json은 반드시 추적)
+Packages/PackageCache/
+
+# IDE
+.vs/
+.idea/
+.vscode/
+
+# Android/iOS 출력물
+.gradle/
+*.apk
+*.aab
+DerivedData/
+*.xcworkspace/
